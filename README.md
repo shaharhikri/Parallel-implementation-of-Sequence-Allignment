@@ -36,5 +36,3 @@ How the program works:
 dicionaries.h:
 * has created by the program 'dictionaries_h_creation.py' (using python).
 global arrays (dictionaries) for device(cuda gpu) and for gost(cpu).
-
-** MutualLogicFuncs.h and dicionaries.h prevent code redundancy.
