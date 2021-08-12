@@ -5,7 +5,7 @@ Author: Shahar Hikri
 
 What the program does - in file: 'Paralle_implementation_of_Sequence_Allignment_2021.docx'
 
-**This program was developed in a Linux environment (Ubuntu 18), so it should be run on the same environment!
+**This program was developed in a Linux environment (Ubuntu 18+MPI+OMP+CUDA), so it should be run on the same environment!
 * Sequences (seq1 and seq2 in 'input.txt') should contain only capital letters ('A','B','C',...,'Z').
 
 for run on 2 computers ('make runOn2'):
