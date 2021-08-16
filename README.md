@@ -34,5 +34,5 @@ How the program works:
   for all possible offsets and takes the combination that gives optimal score by MPI & OMP.
 
 dicionaries.h:
-* has created by the program 'dictionaries_h_creation.py' (using python).
+* has created by the program 'dictionaries_h_creation.py' (using python 3.8).
 global arrays (dictionaries) for device(cuda gpu) and for gost(cpu).
