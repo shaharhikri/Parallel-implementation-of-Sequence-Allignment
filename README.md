@@ -35,4 +35,4 @@ How the program works:
 
 dicionaries.h:
 * has created by the program 'dictionaries_h_creation.py' (using python 3.8).
-global arrays (dictionaries) for device(cuda gpu) and for gost(cpu).
+global arrays (dictionaries) for device(cuda gpu) and for host(cpu).
