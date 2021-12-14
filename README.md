@@ -1,4 +1,7 @@
 # Parallel-implementation-of-Sequence-Allignment
+![alt text](/paralel_readme.png?raw=true)
+
+# The instructions and Descriptions:
 MPI,OpenMP,CUDA Sequence Allignment program.
 
 Author: Shahar Hikri
@@ -36,6 +39,3 @@ How the program works:
 dicionaries.h:
 * has created by the program 'dictionaries_h_creation.py' (using python 3.8).
 global arrays (dictionaries) for device(cuda gpu) and for host(cpu).
-
-# The instructions:
-![alt text](/paralel_readme.png?raw=true)
