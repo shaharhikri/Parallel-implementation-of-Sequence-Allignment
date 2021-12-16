@@ -37,6 +37,6 @@ global arrays (dictionaries) for device(cuda gpu) and for host(cpu).
 
 <br /><br />
 
-# Exercise Description:
+# Project Description:
 ![alt text](/paralel_readme.png?raw=true)
 
